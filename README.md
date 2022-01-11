@@ -8,7 +8,7 @@ birthplace: __Nuremberg, Germany__
 
 - [x] feel the wind of change
 - [x] keep a promise
-- [x] start of the IT bootcamp at @neuefische
+- [x] start of the IT bootcamp at [neuefische](https://www.neuefische.de)
 - [ ] start of my IT career
 
 
