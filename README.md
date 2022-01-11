@@ -1,9 +1,9 @@
-### Tanja Süß
+### Tanja Süß 
 
 *I love to learn.* Learning to code is an awesome journey.  
 What could the name of my unwritten autobiography be?  *"I wouldn't have believed it before..."*
 
-birthplace: __Nuremberg, Germany__
+birthplace: __Nuremberg 🇩🇪__
 
 
 - [x] feel the wind of change
