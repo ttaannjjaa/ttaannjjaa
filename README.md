@@ -10,3 +10,6 @@ birthplace: __Nuremberg, Germany__
 - [x] keep a promise
 - [x] start of the IT bootcamp at @neuefische
 - [ ] start of my IT career
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ttaannjjaa)](https://git.io/streak-stats)
