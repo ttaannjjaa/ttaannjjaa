@@ -7,7 +7,7 @@ birthplace: __Nuremberg, Germany__
 domicile 🏡: again there 
 
 
-- [x] feel the wind of change
+- [x] feel and welcome the wind of change
 - [x] keep a promise
 - [x] start of the IT bootcamp at [neuefische](https://www.neuefische.de)
 - [ ] start of my IT career
