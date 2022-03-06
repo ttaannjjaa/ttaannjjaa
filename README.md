@@ -1,7 +1,7 @@
 ### Tanja Süß 
 
-*I love to learn.* Learning to code is an awesome journey.  
-the title of my unwritten autobiography might be  *"I wouldn't have believed it before..."* 🦖
+Learning to code is an awesome journey and I love to learn.
+The title of my unwritten autobiography might be  *"I wouldn't have believed it before..."* 🦖
 
 birthplace: __Nuremberg, Germany__  
 domicile 🏡: again at this place
