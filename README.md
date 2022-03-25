@@ -1,4 +1,4 @@
-### Hello and Welcome, my name is Tanja Süß 
+### Hello and Welcome, my name is Tanja
 
 📌 always open to discover new interesting things to learn... and learning to code is an awesome journey 
 
