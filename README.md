@@ -1,8 +1,8 @@
-### Tanja Süß 
+### Hello and welcome, my name is Tanja Süß 
 
 📌 always open to discover new interesting things to learn... and learning to code is an awesome journey 
 
-the IT bootcamp at [neuefische](https://www.neuefische.de)
+I am currently attending the IT bootcamp Web Development at [neuefische](https://www.neuefische.de)
 
 birthplace: __Nuremberg, Germany__  
 domicile 🏡: again at this place
