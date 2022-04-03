@@ -9,5 +9,7 @@ domicile 🏡: again at this place
 
 :sparkles: *what you do not want done to you, do not do to others* :sparkles:
 
+Please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/tanja-suess/) :satellite:
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ttaannjjaa)](https://git.io/streak-stats)
