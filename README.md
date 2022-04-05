@@ -8,6 +8,6 @@ I am currently attending the IT bootcamp Web Development at [neuefische](https:/
 Please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/tanja-suess/) :satellite:  
 domicile 🏡: Nuremberg, Germany  
 
-:sparkles: what you do not want done to you, do not do to others :sparkles:
+:sparkles: Do unto others as you would have them do unto you :sparkles:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ttaannjjaa)](https://git.io/streak-stats)
